@@ -29,3 +29,9 @@ Changes to be committed:
         new file:   git-branch.sh
         new file:   img_hello_world.png
         modified:   index.html
+
+git commit -m "Added image to Hello World"     
+[hello-world-images 369b6d7] Added image to Hello World
+ 3 files changed, 33 insertions(+)
+ create mode 100644 git-branch.sh
+ create mode 100644 img_hello_world.png       
