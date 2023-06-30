@@ -10,3 +10,5 @@ This repository is built step by step in the tutorial.
 Its now includes sth file
 
 test push branch to github
+
+update readme to use amend
